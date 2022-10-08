@@ -1,0 +1,18 @@
+#link-header {
+	height: 30px;
+	width: calc(100vw);
+	background-color: rgba(0,0,0,0.8);
+	margin-bottom: 15px;
+}
+#top-link {
+	margin-top: 5px;
+	display: inline-table;
+	position: relative;
+	padding-right: 10px;
+	color: white;
+	text-decoration: unset;
+}
+body {
+	overflow-x: hidden;
+	margin: 0px;
+}
